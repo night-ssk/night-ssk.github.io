@@ -6,7 +6,7 @@ sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<i
 ```
 https://blog.csdn.net/m0_46331490/article/details/117391123
 #### Lambda表达式语法
-![Pasted image 20240401104633.png](../_post/pic/Pasted%20image%2020240401104633.png)
+![Pasted image 20240401104633.png](./pic/Pasted%20image%2020240401104633.png)
 #### vector插入
 ```c
 ​
