@@ -159,6 +159,10 @@ defaults:
     values:
       swcache: true
   - scope:
+      path: pic
+    values:
+      swcache: true
+  - scope:
       path: assets/js/dist
     values:
       swcache: true
